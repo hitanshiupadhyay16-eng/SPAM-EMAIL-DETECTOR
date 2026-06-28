@@ -1,0 +1,57 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "confusion_matrix": [
+    [
+      200,
+      0
+    ],
+    [
+      0,
+      200
+    ]
+  ],
+  "class_distribution": {
+    "ham": 1000,
+    "spam": 1000
+  },
+  "train_size": 1600,
+  "test_size": 400,
+  "vocabulary_size": 1748,
+  "top_spam_features": [
+    "free",
+    "claim",
+    "account",
+    "immediately",
+    "youve",
+    "today",
+    "required",
+    "card",
+    "notice",
+    "click",
+    "warning",
+    "final",
+    "alert",
+    "security",
+    "update"
+  ],
+  "top_ham_features": [
+    "tomorrow",
+    "know",
+    "great",
+    "ill",
+    "need",
+    "new",
+    "hope",
+    "soon",
+    "dont forget",
+    "forget",
+    "did",
+    "let",
+    "let know",
+    "just",
+    "dont"
+  ]
+}
