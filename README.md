@@ -86,6 +86,13 @@ python app.py
 ```
 
 Then open the local Flask URL shown in the terminal.
+## 📸 Application Screenshot
+
+### Dashboard
+
+The application provides a simple web interface for entering email content and checking whether it is classified as spam or not.
+
+![Dashboard](dashboard.png.jpeg)
 
 ## 🎯 Objective
 
